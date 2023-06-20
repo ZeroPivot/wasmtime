@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIRST_PREOPEN"],"fn":["main","path_open_preopen"]};

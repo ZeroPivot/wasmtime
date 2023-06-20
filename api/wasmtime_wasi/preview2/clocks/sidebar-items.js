@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["host"],"struct":["WasiClocks"],"trait":["WasiMonotonicClock","WasiWallClock"]};

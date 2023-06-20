@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["define","define_settings"],"macro":["define_zvl_ext"]};

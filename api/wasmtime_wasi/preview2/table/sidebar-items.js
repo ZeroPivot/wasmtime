@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TableError"],"struct":["Table"]};
